@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarshiniLokesh
-- 👀 I’m interested in frontend developing,html,css,figma and a little bit of backend developing as well.
+- 👀 I’m interested in frontend development,html,css,figma and a little bit of backend developing as well.
 - 🌱 I’m currently learning python and java.
-- 📫 How to reach me through gmail which is, darshini.lokesh22@gmail.com
+- 📫 Reach me at darshini.lokesh22@gmail.com
 
 <!---
 DarshiniLokesh/DarshiniLokesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
