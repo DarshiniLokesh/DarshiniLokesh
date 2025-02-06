@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DarshiniLokesh
-- 👀 I’m interested in frontend development,html,css,figma and a little bit of backend developing as well.
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning frontend development.
 - 📫 Reach me at darshini.lokesh22@gmail.com
 
 <!---
